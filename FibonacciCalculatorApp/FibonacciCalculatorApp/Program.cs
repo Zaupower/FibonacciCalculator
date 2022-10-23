@@ -36,7 +36,6 @@ class Program
 
     public static void IterateFibonaci(int len)
     {
-        Console.WriteLine("LEN INSIDE" + len);
         BigInteger a = 0, b = 1, c = 0;
 
         for (int i = 2; i < len; i++)
