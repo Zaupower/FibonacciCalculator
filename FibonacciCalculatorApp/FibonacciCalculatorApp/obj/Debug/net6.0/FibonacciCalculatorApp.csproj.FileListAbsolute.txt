@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\bin\Debug\net6.0\FibonacciCalculatorApp.exe
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\bin\Debug\net6.0\FibonacciCalculatorApp.deps.json
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\bin\Debug\net6.0\FibonacciCalculatorApp.runtimeconfig.json
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\bin\Debug\net6.0\FibonacciCalculatorApp.dll
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\bin\Debug\net6.0\FibonacciCalculatorApp.pdb
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\FibonacciCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\FibonacciCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\FibonacciCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\FibonacciCalculatorApp.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\FibonacciCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\FibonacciCalculatorApp.dll
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\refint\FibonacciCalculatorApp.dll
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\FibonacciCalculatorApp.pdb
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\FibonacciCalculatorApp.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Documents\QABootcamp\Task4\EX3\FibonacciCalculator\FibonacciCalculatorApp\FibonacciCalculatorApp\obj\Debug\net6.0\ref\FibonacciCalculatorApp.dll
