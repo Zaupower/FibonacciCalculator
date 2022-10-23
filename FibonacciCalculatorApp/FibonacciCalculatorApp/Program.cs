@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Please insert the quantity of numbers to calcualte");
+        Console.WriteLine("Please insert the quantity of numbers to calculate");
         int len = GetLen();
         while (len < 0)
         {
