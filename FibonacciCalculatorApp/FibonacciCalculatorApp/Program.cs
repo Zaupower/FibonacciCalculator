@@ -1,16 +1,20 @@
 ﻿using System.Numerics;
 using System;
+using System.Diagnostics.Metrics;
+
 class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Please insert the quantity of numbers to calcualte");
         int len = GetLen();
         while (len < 0)
         {
             len = GetLen();
         }
 
-        IterateFibonaci(len);
+        IterateFibonaciInRecursion(len);
+        //IterateFibonaciInLoop(len);
     }
 
     private static int GetLen()
@@ -34,7 +38,7 @@ class Program
         return -1;
     }
 
-    public static void IterateFibonaci(int len)
+    public static void IterateFibonaciInLoop(int len)
     {
         BigInteger a = 0, b = 1, c = 0;
 
@@ -45,5 +49,17 @@ class Program
             a= b;
             b= c;   
         }
+    }
+
+    public static void IterateFibonaciInRecursion(int len)
+    {
+        RecursiveMethod(0, 1, 1, new BigInteger(len));
+    }
+
+    public static void RecursiveMethod(BigInteger a, BigInteger b, BigInteger counter, BigInteger number)
+    {
+        Console.Write(a + " ");
+        if (counter < number) RecursiveMethod(b, a + b, counter + 1, number);
+
     }
 }
