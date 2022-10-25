@@ -25,20 +25,23 @@ class Program
         string? len = "";
         int result = 0;
         bool success = false;
-        
+
         len = Console.ReadLine();
         success = int.TryParse(len, out result);
 
         if (!success)
         {
             Console.WriteLine($"Attempted conversion of '{len ?? "<null>"}' failed.");
-        }else if (result > 250)
+        }
+        else if (result > 250)
         {
             Console.WriteLine("Please insert a number bellow 250");
-        }else
+        }
+        else
         {
             return result;
         }
+
         return -1;
     }
 
@@ -46,20 +49,22 @@ class Program
     {
         for (int i = 0; i < len; i++)
         {
-            Console.Write(Fibonacci(i)+" ");
+            Console.Write(Fibonacci(i) + " ");
         }
     }
+
     public static int Fibonacci(int n)
     {
         int a = 0;
         int b = 1;
-        
+
         for (int i = 0; i < n; i++)
         {
             int temp = a;
             a = b;
             b = temp + b;
         }
+
         return a;
     }
 
@@ -72,6 +77,5 @@ class Program
     {
         Console.Write(a + " ");
         if (counter < number) RecursiveMethod(b, a + b, counter + 1, number);
-
     }
 }
