@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GuO4GNEJQfp8WCCpITVSRxaKw/bri59zrHXg60AxmPTP3MX9osKt8wxBN3hBIW9AS6Ug++WzpiCjCgJ6POuxmQ==",
+  "dgSpecHash": "74QOUAx2f8V4sfSoF0cNabilYOPaxPcrwZqkE7LfH+VMdZb2gwMgR9Wi5zu5GW/35vhTS4kXy+R39KEzkpFiFg==",
   "success": true,
-  "projectFilePath": "/home/pfmq052/Documents/github/QABootcamp/Task4/TestGIT/EX3/FibonacciCalculator/FibonacciCalculatorApp/FibonacciCalculatorApp.csproj",
+  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Documents\\QABootcamp\\Lecture4\\EX3\\FibonacciCalculator\\FibonacciCalculator\\FibonacciCalculatorApp\\FibonacciCalculatorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
